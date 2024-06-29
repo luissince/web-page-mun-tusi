@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "nombres": "VARGAS TORRES JHON FRANKLIN",
+        "dni": 71784697,
+        "cargo": "Responsable de Agente Municipal BN",
+        "celular": 928846257
+    },
+    {
+        "id": 2,
+        "nombres": "TAQUIRE ALMERCO ALMICAR",
+        "dni": 45007507,
+        "cargo": "Jefe de la Demuna",
+        "celular": "962475338"
+    },
+    {
+        "id": 3,
+        "nombres": "TAPIA FALCON MIGUEL ANGEL",
+        "dni": 72494116,
+        "cargo": "Jefe de la Divisiónde Turismo",
+        "celular": "978357062"
+    },
+    {
+        "id": 4,
+        "nombres": "ROJAS VELASQUEZ, JEAN MARCO",
+        "dni": 74616246,
+        "cargo": "Responsable de Mesa de Partes",
+        "celular": "929425993"
+    },
+    {
+        "id": 5,
+        "nombres": "RAYMUNDO PRUDENCIO, JUANA ELVIRA",
+        "dni": 60105421,
+        "cargo": "Responsable de SISFOH",
+        "celular": "91883756"
+    },
+    {
+        "id": 6,
+        "nombres": "RAMOS TRUJILLO JANINA JANETH",
+        "dni": 71289584,
+        "cargo": "Responsable de Archivo Central",
+        "celular": "935195261"
+    },
+    {
+        "id": 7,
+        "nombres": "PANDAL PAYANO NELLY MARIA",
+        "dni": 71719415,
+        "cargo": "Jefe de la Unidad de Contabilidad",
+        "celular": "990369935"
+    },
+    {
+        "id": 8,
+        "nombres": "DOMINGUEZ GONZALES JHONNY KEVIN",
+        "dni": 71806904,
+        "cargo": "Jefe de la unidad de Presupuesto",
+        "celular": "931211912"
+    },
+    {
+        "id": 9,
+        "nombres": "DEUDOR CASTRO, SOLMARIA",
+        "dni": 44293618,
+        "cargo": "Jefe de la Unidad de Tesoreria ",
+        "celular": "936626494"
+    },
+    {
+        "id": 10,
+        "nombres": "BRUNO EVANGELISTA NOE",
+        "dni": 74166264,
+        "cargo": "Jefe de la Unidad Maquinaria y Equipos Pesados",
+        "celular": "929521371"
+    },
+    {
+        "id": 11,
+        "nombres": "VILLANUEVA FLORES JONNY JEAN PIERE",
+        "dni": 70329205,
+        "cargo": "Jefe de Administración Tributaria",
+        "celular": "95581522"
+    },
+    {
+        "id": 12,
+        "nombres": "CHACA CONDEZO EDINSON YOVANI",
+        "dni": 46496910,
+        "cargo": "Jefe de Oficina de Comunicación Social y Relaciones Publicas",
+        "celular": "902227754"
+    },
+    {
+        "id": 13,
+        "nombres": "OSORES MONTES JOEL ROMBER",
+        "dni": 70495885,
+        "cargo": "Jefe de la Unidad de Estadística e Informatica",
+        "celular": "944860347"
+    },
+    {
+        "id": 14,
+        "nombres": "PINTO ATENCION SANTIAGO",
+        "dni": 43719703,
+        "cargo": "Jefe de la Unidad de Control Patrimonial",
+        "celular": "926524688"
+    },
+    {
+        "id": 15,
+        "nombres": "RUTH NATALY MEZA ALCANTARA",
+        "dni": 71574687,
+        "cargo": "JEFE DE LOGISTICA",
+        "celular": 957053950,
+        "correo": "ruthytanma@gmail.com"
+    },
+    {
+        "id": 16,
+        "nombres": "CRISTAL KARINA SUAREZ VELASQUE",
+        "dni": 47261684,
+        "cargo": "JEFE DE LA DIVISIÓN DE CATASTRO URBANA Y ACOND. TERRITORIAL",
+        "celular": "918679019",
+        "correo": "karin_92_28@hotmail.com"
+    },
+    {
+        "id": 17,
+        "nombres": "LUIS ARMANDO VILLANUEVA QUIROZ",
+        "dni": 43946854,
+        "cargo": "JEFE DE LA DIVISIÓN DE ESTUDIOS, PROYECTOS Y OBRAS",
+        "celular": "949815097"
+    },
+    {
+        "id": 18,
+        "nombres": "BRYAN HUGO LINARES MATOS",
+        "dni": 71919287,
+        "cargo": "JEFE DE LA UNIDAD DE SUPERVISION Y LIQUIDACION DE OBRAS",
+        "celular": "935294087",
+        "correo": "bryanibanez53@gmail.com.com"
+    },
+    {
+        "id": 19,
+        "nombres": "SIMON OHM SARMIENTO FALCON ",
+        "dni": 46973778,
+        "cargo": "JEFATURA DE LA DIVISION DEL MEDIO AMBIENTE",
+        "celular": "936447402"
+    },
+    {
+        "id": 20,
+        "nombres": "JORDAN MARCO JURADO FALCON ",
+        "dni": 72129065,
+        "cargo": "JEFE DE LA SEGURIDAD CIUDADANA Y DEFENSA CIVIL",
+        "celular": "988243252",
+        "correo": "jordanjf.1217@gmail.com"
+    },
+    {
+        "id": 21,
+        "nombres": "ROMARIO RAI MENDOZA ANTONIO",
+        "dni": 74627931,
+        "cargo": "RESPONSABLE DE OPMI",
+        "celular": "946618558"
+    },
+    {
+        "id": 22,
+        "nombres": "JUSSARA JARLEY RIOS RUIZ",
+        "dni": 47771572,
+        "cargo": "JEFE DE RECURSOS HUMANOS",
+        "celular": 978631683,
+        "correo": "yussara.rios@gmail.com"
+    },
+    {
+        "id": 23,
+        "nombres": "ZARATE WILSON ARTURO PAUL",
+        "dni": 45653009,
+        "cargo": "ASISTENTE TECNICO LEGAL",
+        "celular": "975245599"
+    },
+    {
+        "id": 24,
+        "nombres": "YERSI LUISA ALANIA BERROSPI",
+        "dni": 71116451,
+        "cargo": "SECRETARIA GENERAL",
+        "celular": "915219465"
+    },
+    {
+        "id": 25,
+        "nombres": "KRISTEL KIMBERLY HINOSTROZA CALERO ",
+        "dni": 47750115,
+        "cargo": "JEFE DE ALMACEN",
+        "celular": "916260455"
+    }
+]
